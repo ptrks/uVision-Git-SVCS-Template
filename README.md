@@ -1,10 +1,10 @@
 # uVision-Git-SVCS-Template
 
-###Overview
+### Overview
 The uVision IDE supports various version control systems with the help of .SVCS template files. Recently they added a template file 
 for use with Git. This is my attempt at fixing bugs and adding functionality to the template file.
 
-===
+---
 
 ### Changelog
 * Fixed ```Commit staged changes``` entry. Original version was using ```commit -m``` but passing a temp file path.
